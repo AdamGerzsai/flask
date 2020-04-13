@@ -1,0 +1,11 @@
+# Cache
+__pycache__
+
+# OS
+.DS_Store
+
+# Settings
+.envrc
+
+# DB
+app.db
